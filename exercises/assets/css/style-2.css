@@ -12,7 +12,6 @@ input, button, textarea, select { font: inherit }
 /* ====== PADDING AROUND WEB PAGE BODY CONTENT ======  */
 body { padding: 4% 20% }
 
-
 h1 {
     font-size: 84px;
     margin-bottom: 64px;
@@ -20,8 +19,6 @@ h1 {
     font-weight: normal;
     letter-spacing: 4px;
 }
-/* ====== PADDING AROUND WEB PAGE BODY CONTENT ======  */
-body { padding: 4% 20% }
 
 h2 {
     font-size: 28px;
