@@ -23,21 +23,3 @@ input, button, textarea, select { font: inherit }
     section { padding: 5% 5% }
     }
 
-/* =========================== Next CSS padding style were replace for the padding style above =============================
-section { padding: 4% 20% }
-section *:last-child { margin-bottom: 0 !important
-
-h2 {
-    font-size: 56px;
-    margin-bottom: 4px;
-}
-
-h3 {
-    font-size: 32px;
-    margin-bottom: 4px;
-}
-
-p {
-    font-size: 20px;
-    margin-bottom: 16px
-}
