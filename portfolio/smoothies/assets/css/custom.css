@@ -1,15 +1,3 @@
-:root {
-    --purple-800: #5e3c92;   /* Example color */
-    --pink-200: #f2a6b6;     /* Example color */
-    --green-200: #c1e4c4;     /* Example color */
-    --red-700: #b83e2c;       /* Example color */
-    --green-700: #2c6e34;     /* Example color */
-    --yellow-200: #fff3a7;   /* Example color */
-    --yellow-600: #f5b832;   /* Example color */
-    --white-000: #ffffff;    /* Example color */
-}
-
-
 /* Add your custom CSS here */
 
 body {font-family: 'Neucha', cursive}
